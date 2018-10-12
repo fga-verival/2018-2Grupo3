@@ -1,6 +1,6 @@
-| Inspetor(a)      | Taynara de Jesus Carvalho |
+| Inspetor(a)      | Arthur José Benedito de Oliveira Assis|
 |------------------|---------------------------|
-| Data de Inspeção | 12/10/2018                |
+| Data de Inspeção | 11/10/2018                |
 
 
 | ARTEFATO            | ID QUESTÃO | SIM | NAO | INDEFINIDO | OBSERVAÇÕES                                                        | DEFEITOS                                                                                           |
